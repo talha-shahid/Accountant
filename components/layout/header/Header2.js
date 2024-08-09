@@ -18,7 +18,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSear
                                 <div className="menu-wrap">
                                     <nav className="menu-nav">
                                         <div className="logo">
-                                            <Link href="/"><img src="/assets/img/logo/logo.png" alt="Logo" /></Link>
+                                            <Link href="/"><img  style={{maxHeight: '60px'}} src="/assets/img/logo/logo.png" alt="Logo" /></Link>
                                         </div>
                                         <div className="navbar-wrap main-menu d-none d-lg-flex">
                                             <ul className="navigation">
