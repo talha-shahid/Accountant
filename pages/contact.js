@@ -120,7 +120,7 @@ export default function Contact() {
               <div className="row align-items-center">
                 <div className="col-lg-6">
                   <div className="inner-contact-img">
-                    <img src="/assets/img/images/contact_img.jpg" alt="" />
+                    <img src="/assets/img/new-images/overhead-workspace-view-of-male-hands-and-working-2023-11-27-05-24-16-utc.jpg" alt="" />
                   </div>
                 </div>
                 <div className="col-lg-6">

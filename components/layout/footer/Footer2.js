@@ -11,7 +11,7 @@ export default function Footer2() {
           <div className="footer-top-two">
             <div className="container">
               <div className="row">
-                <div className="col-lg-4 col-md-7">
+                <div className="col-lg-6 col-md-6">
                   <div className="footer-widget">
                     <div className="fw-logo">
                       <Link href="/">
@@ -40,7 +40,7 @@ export default function Footer2() {
                               </Link>
                             </div>
                           </li>
-                          <li>
+                          {/* <li>
                             <div className="icon">
                               <i className="flaticon-clock" />
                             </div>
@@ -50,13 +50,13 @@ export default function Footer2() {
                                 <span>CLOSED</span>
                               </p>
                             </div>
-                          </li>
+                          </li> */}
                         </ul>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-5 col-sm-6">
+                <div className="col-lg-6 col-md-6 col-sm-6">
                   <div className="footer-widget">
                     <h4 className="fw-title">Menu</h4>
                     <div className="footer-link">
@@ -96,7 +96,7 @@ export default function Footer2() {
                                         </div>
                                     </div>
                                 </div> */}
-                <div className="col-lg-4 col-md-7">
+                {/* <div className="col-lg-4 col-md-7">
                   <div className="footer-widget">
                     <h4 className="fw-title">Our Newsletter</h4>
                     <div className="footer-newsletter">
@@ -139,7 +139,7 @@ export default function Footer2() {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@ export default function Footer2() {
               <div className="row">
                 <div className="col-lg-12">
                   <div className="copyright-text-two text-center">
-                    <p>Copyright © cheapoweb | All Right Reserved</p>
+                    <p>Copyright © <a href="https://cheapoweb.com/">cheapoweb</a> | All Right Reserved</p>
                   </div>
                 </div>
               </div>

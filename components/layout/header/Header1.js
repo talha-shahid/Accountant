@@ -51,21 +51,21 @@ export default function Header1({
                           <i className="fab fa-facebook-f" />
                         </Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-twitter" />
                         </Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link href="#">
                           <i className="fab fa-instagram" />
                         </Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-pinterest-p" />
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                   <div className="header-top-btn">
@@ -141,17 +141,20 @@ export default function Header1({
                             <i className="flaticon-phone-call" />
                           </div>
                           <div className="content">
-                            <span>Hot Line Number</span>
-                            <Link href="tel:+1 (312) 622-0870">
-                              +1 (312) 622-0870
+                            <span>Hot Line Numbers</span>
+                            <Link href="tel:(312) 622-0870">
+                            (312) 622-0870
+                            </Link>
+                            <Link href="tel:(516)-386-0221">
+                            (516) 386-0221
                             </Link>
                           </div>
                         </li>
-                        <li className="header-search" onClick={handleSearch}>
+                        {/* <li className="header-search" onClick={handleSearch}>
                           <Link href="#">
                             <i className="flaticon-search" />
                           </Link>
-                        </li>
+                        </li> */}
                         <li
                           className="offcanvas-menu"
                           onClick={handleOffcanvus}
@@ -187,26 +190,26 @@ export default function Header1({
                             <i className="fab fa-facebook-f" />
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link href="#">
                             <i className="fab fa-twitter" />
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <Link href="#">
                             <i className="fab fa-instagram" />
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link href="#">
                             <i className="fab fa-linkedin-in" />
                           </Link>
-                        </li>
-                        <li>
+                        </li> */}
+                        {/* <li>
                           <Link href="#">
                             <i className="fab fa-youtube" />
                           </Link>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </nav>

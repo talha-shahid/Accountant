@@ -1,6 +1,7 @@
 import Layout from "@/components/layout/Layout"
 import About from "@/components/sections/home1/About"
-import Banner from "@/components/sections/home1/Banner"
+// import Banner from "@/components/sections/home1/Banner"
+import Banner from "@/components/sections/home2/Banner"
 import Blog from "@/components/sections/home1/Blog"
 import Brand from "@/components/sections/home1/Brand"
 import Choose from "@/components/sections/home1/Choose"

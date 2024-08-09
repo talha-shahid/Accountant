@@ -32,7 +32,7 @@ export default function OffcanvusMenu({ isOffcanvus, handleOffcanvus }) {
             <p>info@perfectchoice.us</p>
           </div>
         </div>
-        <ul className="side-instagram list-wrap">
+        {/* <ul className="side-instagram list-wrap">
           <li>
             <Link href="#">
               <img src="/assets/img/images/sb_insta01.jpg" alt="" />
@@ -63,17 +63,17 @@ export default function OffcanvusMenu({ isOffcanvus, handleOffcanvus }) {
               <img src="/assets/img/images/sb_insta06.jpg" alt="" />
             </Link>
           </li>
-        </ul>
+        </ul> */}
         <div className="social-icon-right mt-30">
           <Link href="#">
             <i className="fab fa-facebook-f" />
           </Link>
-          <Link href="#">
+          {/* <Link href="#">
             <i className="fab fa-twitter" />
-          </Link>
-          <Link href="#">
+          </Link> */}
+          {/* <Link href="#">
             <i className="fab fa-google-plus-g" />
-          </Link>
+          </Link> */}
           <Link href="#">
             <i className="fab fa-instagram" />
           </Link>

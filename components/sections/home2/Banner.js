@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Banner() {
     return (
         <>
@@ -13,12 +15,18 @@ export default function Banner() {
                         </div>
                         <div className="col-lg-5">
                             <div className="banner-content-three">
-                                <h2 className="title" data-aos="fade-right" data-aos-delay={0}>Need Business Consultation Today</h2>
-                                <p data-aos="fade-right" data-aos-delay={300}>Agilos helps you to convert your data into a strategic asset and get top-notch business insights.</p>
+                                <h2 className="title" data-aos="fade-right" data-aos-delay={0}>Navigating Your Financial Future</h2>
+                                {/* <p data-aos="fade-right" data-aos-delay={300}>Agilos helps you to convert your data into a strategic asset and get top-notch business insights.</p>
                                 <form action="#" className="banner-form" data-aos="fade-right" data-aos-delay={600}>
                                     <input type="text" placeholder="E-mail Address" />
                                     <button type="submit"><i className="flaticon-right-arrow" /></button>
-                                </form>
+                                </form> */}
+                                                            <p data-aos="fade-up" data-aos-delay={500}>We transform complex financial data into clear, actionable strategies to drive your business success.</p>
+                                <div className="banner-btn">
+                                    <Link href="/services" className="btn" data-aos="fade-right" data-aos-delay={700}>Our Services</Link>
+                                    {/* <VideoPopup style={1} /> */}
+                                </div>
+                            
                             </div>
                         </div>
                     </div>

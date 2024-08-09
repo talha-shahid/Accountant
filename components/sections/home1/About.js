@@ -34,10 +34,10 @@ export default function About() {
                                     {/* <div className="thumb">
                                         <img src="/assets/img/images/about_author.png" alt="" />
                                     </div> */}
-                                    <div className="content">
+                                    {/* <div className="content">
                                         <h2 className="title">Raza Haider</h2>
                                         <span>CEO, Financial Architects Inc.</span>
-                                    </div>
+                                    </div> */}
                                     {/* <div className="signature">
                                         <img src="/assets/img/images/signature.png" alt="" />
                                     </div> */}

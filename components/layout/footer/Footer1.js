@@ -11,7 +11,7 @@ export default function Footer1() {
           <div className="container">
             <div className="footer-top">
               <div className="row">
-                <div className="col-lg-3 col-md-7">
+                <div className="col-lg-6 col-md-6">
                   <div className="footer-widget">
                     <h4 className="fw-title">Information</h4>
                     <div className="footer-info">
@@ -36,7 +36,7 @@ export default function Footer1() {
                             </Link>
                           </div>
                         </li>
-                        <li>
+                        {/* <li>
                           <div className="icon">
                             <i className="flaticon-clock" />
                           </div>
@@ -46,12 +46,12 @@ export default function Footer1() {
                               <span>CLOSED</span>
                             </p>
                           </div>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-5 col-sm-6">
+                <div className="col-lg-6 col-md-6 col-sm-6">
                   <div className="footer-widget">
                     <h4 className="fw-title">Menu</h4>
                     <div className="footer-link">
@@ -91,7 +91,7 @@ export default function Footer1() {
                                         </div>
                                     </div>
                                 </div> */}
-                <div className="col-lg-4 col-md-7">
+                {/* <div className="col-lg-4 col-md-7">
                   <div className="footer-widget">
                     <h4 className="fw-title">Our Newsletter</h4>
                     <div className="footer-newsletter">
@@ -106,7 +106,7 @@ export default function Footer1() {
                       <span>We don't send you any spam</span>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="footer-bottom">
@@ -123,7 +123,8 @@ export default function Footer1() {
                       </Link>
                     </div>
                     <div className="copyright-text">
-                      <p>Copyright © cheapoweb | All Right Reserved</p>
+
+                      <p>Copyright © <Link href="https://cheapoweb.com/">Cheapoweb</Link> | All Right Reserved</p>
                     </div>
                   </div>
                 </div>
@@ -135,26 +136,26 @@ export default function Footer1() {
                           <i className="fab fa-facebook-f" />
                         </Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-twitter" />
                         </Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link href="#">
                           <i className="fab fa-instagram" />
                         </Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-pinterest-p" />
                         </Link>
-                      </li>
-                      <li>
+                      </li> */}
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-youtube" />
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>
