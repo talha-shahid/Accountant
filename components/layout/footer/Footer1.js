@@ -123,7 +123,7 @@ export default function Footer1() {
                     <div className="f-logo">
                       <Link href="/">
                         <img 
-                          src="/assets/img/logo/logo.png"
+                          src="/assets/img/logo/logo-2.png"
                           alt=""
                           style={{ transform: "scale(2)", marginLeft: "40px",marginBottom: "20px"}}
                         />
