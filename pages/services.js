@@ -34,7 +34,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/services/services_img01.jpg"
+                        src="/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg"
                         alt=""
                       />
                       <Link
@@ -65,7 +65,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/services/services_img02.jpg"
+                        src="/assets/img/new-images/services/love-portrait-and-family-at-park-with-happy-smil-2023-11-27-05-17-50-utc.jpg"
                         alt=""
                       />
                       <Link
@@ -97,7 +97,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/services/services_img03.jpg"
+                        src="/assets/img/new-images/services/personal-organizer-management-schedule-planning-2023-11-27-05-02-49-utc.jpg"
                         alt=""
                       />
                       <Link
@@ -128,7 +128,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/services/services_img04.jpg"
+                        src="/assets/img/new-images/services/two-intercultural-female-agents-comparing-informat-2023-11-27-05-14-37-utc.jpg"
                         alt=""
                       />
                       <Link
@@ -159,7 +159,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/services/services_img05.jpg"
+                        src="/assets/img/new-images/services/business-recruiters-shakes-hands-with-candidate-du-2023-11-27-05-24-40-utc.jpg"
                         alt=""
                       />
                       <Link

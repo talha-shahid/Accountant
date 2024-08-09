@@ -31,13 +31,20 @@ export default function Footer2() {
                       <div className="footer-info">
                         <ul className="list-wrap">
                           <li>
-                            <div className="icon">
+                            <div className="icon" style={{padding: '10px'}}>
                               <i className="flaticon-phone-call" />
                             </div>
                             <div className="content">
-                              <Link href="tel:+1 (312) 622-0870">
-                                +1 (312) 622-0870
+                              <div>
+                              <Link href="tel:312-622-0870">
+                              312-622-0870
                               </Link>
+                              </div>
+                              <div>
+                              <Link href="516-386-0221">
+                              516-386-0221
+                              </Link>
+                              </div>
                             </div>
                           </li>
                           {/* <li>

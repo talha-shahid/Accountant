@@ -4,7 +4,8 @@
       "slug": "indiviual-tax-filing",
       "name": "Individual Tax Filing",
       "subtitle": "Single 1040 + W2: $75",
-      "description": "Our tax specialists will handle your individual tax filing with precision and care. We will prepare your Form 1040 and ensure all W2 information is accurately reported. This service is perfect for individuals with straightforward income sources. Our goal is to maximize your refund or minimize your tax liability while ensuring compliance with all IRS regulations. We provide a seamless process, from document collection to filing, ensuring you have peace of mind knowing your taxes are in expert hands."
+      "description": "Our tax specialists will handle your individual tax filing with precision and care. We will prepare your Form 1040 and ensure all W2 information is accurately reported. This service is perfect for individuals with straightforward income sources. Our goal is to maximize your refund or minimize your tax liability while ensuring compliance with all IRS regulations. We provide a seamless process, from document collection to filing, ensuring you have peace of mind knowing your taxes are in expert hands.",
+      "img":"/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg"
     },
     {
       "id": 2,
@@ -17,7 +18,8 @@
       "subtitle-three": "With Kids (1 W2): $75 ",
       "description-three": "Filing taxes as a family can be complex, but our experts simplify the process. This service covers one W2 and includes considerations for dependents. We ensure you receive all eligible credits, such as the Child Tax Credit and Earned Income Credit, to maximize your refund. Our thorough approach guarantees accurate filing and compliance with all tax laws.",
       "subtitle-four": "Each Additional W2: $15 ",
-      "description-four": "For families with multiple income sources, we handle each additional W2 efficiently. Our team ensures all income is reported accurately, helping you take full advantage of family related tax benefits."
+      "description-four": "For families with multiple income sources, we handle each additional W2 efficiently. Our team ensures all income is reported accurately, helping you take full advantage of family related tax benefits.",
+      "img":"/assets/img/new-images/services/love-portrait-and-family-at-park-with-happy-smil-2023-11-27-05-17-50-utc.jpg"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "subtitle-five": "Interest Bank and Dividend (Schedule B): $10 ",
       "description-five": "We handle the reporting of your interest and dividend income with our Schedule B service. This ensures all your investment income is accurately reported, minimizing your tax liability.",
       "subtitle-six": "Reporting Foreign Income: $150 ",
-      "description-six": "If you have foreign income, our specialists will ensure it is correctly reported. We navigate the complexities of foreign income reporting, ensuring compliance with all IRS requirements."
+      "description-six": "If you have foreign income, our specialists will ensure it is correctly reported. We navigate the complexities of foreign income reporting, ensuring compliance with all IRS requirements.",
+      "img":"/assets/img/new-images/services/personal-organizer-management-schedule-planning-2023-11-27-05-02-49-utc.jpg"
     },
     {
       "id": 4,
@@ -47,7 +50,8 @@
       "subtitle-three": "Form 1120S: $250",
       "description-three": "For S Corporations, our Form 1120S service offers thorough tax filing. We ensure all income, deductions, and credits are accurately reported, optimizing your tax situation.",
       "subtitle-four": "Each Additional Property: $50",
-      "description-four": "We handle additional state filings for S Corporations, ensuring compliance and accuracy. "
+      "description-four": "We handle additional state filings for S Corporations, ensuring compliance and accuracy. ",
+      "img":"/assets/img/new-images/services/two-intercultural-female-agents-comparing-informat-2023-11-27-05-14-37-utc.jpg"
 
     },
     {
@@ -67,6 +71,7 @@
       "subtitle-six": "1099 Filing: $50",
       "description-six": "We handle the filing of 1099 forms, ensuring all contractor payments are reported accurately.",
       "subtitle-seven" :"1099 Correction: $25 ",
-      "description-seven": "Need to correct a 1099 form? Our correction service ensures accurate reporting, avoiding penalties and ensuring compliance."
+      "description-seven": "Need to correct a 1099 form? Our correction service ensures accurate reporting, avoiding penalties and ensuring compliance.",
+      "img":"/assets/img/new-images/services/business-recruiters-shakes-hands-with-candidate-du-2023-11-27-05-24-40-utc.jpg"
     }
   ]

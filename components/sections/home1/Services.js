@@ -37,12 +37,13 @@ export default function Services() {
                         </div>
                     </div>
                     <div className="row justify-content-center">
+                        {/* 1st Service */}
                         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div className="services-item-two" onMouseEnter={() => handleToggle(1)} onMouseLeave={() => handleToggle(1)}>
                                 <div className="services-thumb-two">
-                                    <img style={{height: '450px'}} src="/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg" alt="" />
+                                    <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg" alt="" />
                                     <div className="item-shape">
-                                        <img  src="/assets/img/services/services_item_shape.png" alt="" />
+                                        <img  style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg" alt="" />
                                     </div>
                                 </div>
                                 <div className="services-content-two">
@@ -54,12 +55,13 @@ export default function Services() {
                                 </div>
                             </div>
                         </div>
+                        {/* 2nd Service */}
                         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div className="services-item-two" onMouseEnter={() => handleToggle(2)} onMouseLeave={() => handleToggle(2)}>
                                 <div className="services-thumb-two">
-                                    <img src="/assets/img/services/h2_services_img02.jpg" alt="" />
+                                    <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/love-portrait-and-family-at-park-with-happy-smil-2023-11-27-05-17-50-utc.jpg" alt="" />
                                     <div className="item-shape">
-                                        <img src="/assets/img/services/services_item_shape.png" alt="" />
+                                        <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/love-portrait-and-family-at-park-with-happy-smil-2023-11-27-05-17-50-utc.jpg" alt="" />
                                     </div>
                                 </div>
                                 <div className="services-content-two">
@@ -71,12 +73,13 @@ export default function Services() {
                                 </div>
                             </div>
                         </div>
+                        {/* 3rd Service */}
                         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div className="services-item-two" onMouseEnter={() => handleToggle(3)} onMouseLeave={() => handleToggle(3)}>
                                 <div className="services-thumb-two">
-                                    <img src="/assets/img/services/h2_services_img03.jpg" alt="" />
+                                    <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/personal-organizer-management-schedule-planning-2023-11-27-05-02-49-utc.jpg" alt="" />
                                     <div className="item-shape">
-                                        <img src="/assets/img/services/services_item_shape.png" alt="" />
+                                        <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/personal-organizer-management-schedule-planning-2023-11-27-05-02-49-utc.jpg" alt="" />
                                     </div>
                                 </div>
                                 <div className="services-content-two">
@@ -88,12 +91,13 @@ export default function Services() {
                                 </div>
                             </div>
                         </div>
+                        {/* 4th Service */}
                         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div className="services-item-two" onMouseEnter={() => handleToggle(4)} onMouseLeave={() => handleToggle(4)}>
                                 <div className="services-thumb-two">
-                                    <img src="/assets/img/services/h2_services_img04.jpg" alt="" />
+                                    <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/two-intercultural-female-agents-comparing-informat-2023-11-27-05-14-37-utc.jpg" alt="" />
                                     <div className="item-shape">
-                                        <img src="/assets/img/services/services_item_shape.png" alt="" />
+                                        <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/two-intercultural-female-agents-comparing-informat-2023-11-27-05-14-37-utc.jpg" alt="" />
                                     </div>
                                 </div>
                                 <div className="services-content-two">
@@ -105,12 +109,13 @@ export default function Services() {
                                 </div>
                             </div>
                         </div>
+                        {/* 5th Service */}
                         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div className="services-item-two" onMouseEnter={() => handleToggle(5)} onMouseLeave={() => handleToggle(5)}>
                                 <div className="services-thumb-two">
-                                    <img src="/assets/img/services/h2_services_img05.jpg" alt="" />
+                                    <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/business-recruiters-shakes-hands-with-candidate-du-2023-11-27-05-24-40-utc.jpg" alt="" />
                                     <div className="item-shape">
-                                        <img src="/assets/img/services/services_item_shape.png" alt="" />
+                                        <img style={{height: "500px", objectFit: 'cover'}} src="/assets/img/new-images/services/business-recruiters-shakes-hands-with-candidate-du-2023-11-27-05-24-40-utc.jpg" alt="" />
                                     </div>
                                 </div>
                                 <div className="services-content-two">

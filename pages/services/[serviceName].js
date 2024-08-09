@@ -51,7 +51,7 @@ export default function ServiceDetails() {
                   <div className="services-details-wrap">
                     <div className="services-details-thumb">
                       <img
-                        src="/assets/img/services/services_details01.jpg"
+                        src={`${serviceDetails?.img}`}
                         alt="Individual Tax Filing"
                       />
                     </div>

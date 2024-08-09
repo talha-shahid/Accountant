@@ -25,8 +25,11 @@ export default function OffcanvusMenu({ isOffcanvus, handleOffcanvus }) {
           </div>
           <div className="contact-list mb-30">
             <h4>Phone Number</h4>
-            <p>+1 (312) 622-0870</p>
+            <p>312-622-0870</p>
+            <p>516-386-0221</p>
           </div>
+
+
           <div className="contact-list mb-30">
             <h4>Email Address</h4>
             <p>info@perfectchoice.us</p>

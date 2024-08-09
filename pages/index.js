@@ -18,7 +18,7 @@ import Testimonial from "@/components/sections/home1/Testimonial"
 export default function Home1() {
     return (
         <>
-            <Layout headerStyle={1} footerStyle={2}>
+            <Layout headerStyle={2} footerStyle={2}>
                 <Banner />
                 <Features />
                 <Services />
