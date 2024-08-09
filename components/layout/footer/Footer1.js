@@ -27,13 +27,20 @@ export default function Footer1() {
                           </div>
                         </li>
                         <li>
-                          <div className="icon">
+                          <div className="icon" style={{padding: '10px'}}>
                             <i className="flaticon-phone-call" />
                           </div>
                           <div className="content">
-                            <Link href="tel:+1 (312) 622-0870">
-                              +1 (312) 622-0870
+                            <div>
+                            <Link href="tel:312-622-0870">
+                              312-622-0870
                             </Link>
+                            </div>
+                            <div>
+                            <Link href="tel:516-386-0221">
+                              516-386-0221
+                            </Link>
+                            </div>
                           </div>
                         </li>
                         {/* <li>
@@ -115,8 +122,8 @@ export default function Footer1() {
                   <div className="left-sider">
                     <div className="f-logo">
                       <Link href="/">
-                        <img
-                          src="/assets/img/logo/w_logo.png"
+                        <img 
+                          src="/assets/img/logo/logo.png"
                           alt=""
                           style={{ transform: "scale(2)", marginLeft: "40px",marginBottom: "20px"}}
                         />
