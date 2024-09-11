@@ -6,8 +6,8 @@ export default function About() {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-6 col-md-9">
                             <div className="about-img-wrap-three">
-                                <img src="/assets/img/images/h2_about_img01.jpg" alt="" data-aos="fade-down-right" data-aos-delay={0} />
-                                <img src="/assets/img/images/h2_about_img02.jpg" alt="" data-aos="fade-left" data-aos-delay={400} />
+                                <img src="/assets/img/images/aacc.jpg" alt="" data-aos="fade-down-right" data-aos-delay={0} />
+                                <img src="/assets/img/images/money.png" alt="" data-aos="fade-left" data-aos-delay={400} />
                                 <div className="experience-wrap" data-aos="fade-up" data-aos-delay={300}>
                                     <h2 className="title">25 <span>Years</span></h2>
                                     <p>Of Experience in This Finance Advisory Company.</p>
