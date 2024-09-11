@@ -26,7 +26,7 @@ export default function Footer1() {
                             </p>
                           </div>
                         </li>
-                        <li>
+                        {/* <li>
                           <div className="icon" style={{padding: '10px'}}>
                             <i className="flaticon-phone-call" />
                           </div>
@@ -42,7 +42,7 @@ export default function Footer1() {
                             </Link>
                             </div>
                           </div>
-                        </li>
+                        </li> */}
                         {/* <li>
                           <div className="icon">
                             <i className="flaticon-clock" />
@@ -139,7 +139,7 @@ export default function Footer1() {
                   <div className="footer-social">
                     <ul className="list-wrap">
                       <li>
-                        <Link href="#">
+                        <Link href="https://www.facebook.com/Perfect.Choice.Tax.Accounting/">
                           <i className="fab fa-facebook-f" />
                         </Link>
                       </li>
@@ -148,11 +148,11 @@ export default function Footer1() {
                           <i className="fab fa-twitter" />
                         </Link>
                       </li> */}
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-instagram" />
                         </Link>
-                      </li>
+                      </li> */}
                       {/* <li>
                         <Link href="#">
                           <i className="fab fa-pinterest-p" />

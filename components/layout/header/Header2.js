@@ -71,23 +71,22 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSear
                                         <div className="header-action">
                                             <ul className="list-wrap">
                                                 {/* <li className="header-search" onClick={handleSearch}><Link href="#"><i className="flaticon-search" /></Link></li> */}
-                                                <li className="offcanvas-menu offcanvas-menu-two" onClick={handleOffcanvus}>
+                                                {/* <li className="offcanvas-menu offcanvas-menu-two" onClick={handleOffcanvus}>
                                                     <Link href="#" className="menu-tigger">
                                                         <span />
                                                         <span />
                                                         <span />
                                                     </Link>
-                                                </li>
-                                                <li className="header-contact-two">
+                                                </li> */}
+                                                {/* <li className="header-contact-two">
                                                     <div className="icon">
                                                         <i className="flaticon-phone-call" />
                                                     </div>
                                                     <div className="content">
-                                                        {/* <span>Hot Line Number</span> */}
                                                         <Link href="tel:312-622-0870">312-622-0870</Link>
                                                         <Link href="tel:516-386-0221"> 516-386-0221</Link>
                                                     </div>
-                                                </li>
+                                                </li> */}
                                             </ul>
                                         </div>
                                     </nav>

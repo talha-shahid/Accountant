@@ -35,8 +35,8 @@ export default function Header1({
                     </li>
                     <li>
                       <i className="flaticon-mail" />
-                      <Link href="mailto:info@perfectchoice.us">
-                        info@perfectchoice.us
+                      <Link href="mailto:info@1050web.com">
+                        info@1050web.com
                       </Link>
                     </li>
                   </ul>
@@ -134,7 +134,7 @@ export default function Header1({
                         </li>
                       </ul>
                     </div>
-                    <div className="header-action">
+                    {/* <div className="header-action">
                       <ul className="list-wrap">
                         <li className="header-contact-two">
                           <div className="icon">
@@ -150,11 +150,6 @@ export default function Header1({
                             </Link>
                           </div>
                         </li>
-                        {/* <li className="header-search" onClick={handleSearch}>
-                          <Link href="#">
-                            <i className="flaticon-search" />
-                          </Link>
-                        </li> */}
                         <li
                           className="offcanvas-menu"
                           onClick={handleOffcanvus}
@@ -166,7 +161,7 @@ export default function Header1({
                           </Link>
                         </li>
                       </ul>
-                    </div>
+                    </div> */}
                   </nav>
                 </div>
                 {/* Mobile Menu  */}

@@ -30,8 +30,8 @@ export default function Header6({
                     </li>
                     <li>
                       <i className="flaticon-mail" />
-                      <Link href="mailto:info@perfectchoice.us">
-                        info@perfectchoice.us
+                      <Link href="mailto:info@1050web.com">
+                        info@1050web.com
                       </Link>
                     </li>
                   </ul>
@@ -39,20 +39,20 @@ export default function Header6({
               </div>
               <div className="col-lg-5">
                 <div className="header-top-right">
-                  <div className="header-contact">
+                  {/* <div className="header-contact">
                     <Link href="tel:+1 (312) 622-0870">
                       <i className="flaticon-phone-call" />
                       +1 (312) 622-0870
                     </Link>
-                  </div>
+                  </div> */}
                   <div className="header-social">
                     <ul className="list-wrap">
                       <li>
-                        <Link href="#">
+                        <Link href="https://www.facebook.com/Perfect.Choice.Tax.Accounting/">
                           <i className="fab fa-facebook-f" />
                         </Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="#">
                           <i className="fab fa-twitter" />
                         </Link>
@@ -66,7 +66,7 @@ export default function Header6({
                         <Link href="#">
                           <i className="fab fa-pinterest-p" />
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>

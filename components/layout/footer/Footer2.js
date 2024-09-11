@@ -30,7 +30,7 @@ export default function Footer2() {
                       </p>
                       <div className="footer-info">
                         <ul className="list-wrap">
-                          <li>
+                          {/* <li>
                             <div className="icon" style={{padding: '10px'}}>
                               <i className="flaticon-phone-call" />
                             </div>
@@ -46,7 +46,7 @@ export default function Footer2() {
                               </Link>
                               </div>
                             </div>
-                          </li>
+                          </li> */}
                           {/* <li>
                             <div className="icon">
                               <i className="flaticon-clock" />

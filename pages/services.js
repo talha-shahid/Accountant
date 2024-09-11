@@ -65,7 +65,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/new-images/services/love-portrait-and-family-at-park-with-happy-smil-2023-11-27-05-17-50-utc.jpg"
+                        src="/assets/img/new-images/services/marriage.jpg"
                         alt=""
                       />
                       <Link
@@ -128,7 +128,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/new-images/services/two-intercultural-female-agents-comparing-informat-2023-11-27-05-14-37-utc.jpg"
+                        src="/assets/img/services/taxes.jpg"
                         alt=""
                       />
                       <Link
@@ -159,7 +159,7 @@ export default function Services() {
                     </div>
                     <div className="services-thumb">
                       <img
-                        src="/assets/img/new-images/services/business-recruiters-shakes-hands-with-candidate-du-2023-11-27-05-24-40-utc.jpg"
+                        src="/assets/img/new-images/services/form.jpg"
                         alt=""
                       />
                       <Link

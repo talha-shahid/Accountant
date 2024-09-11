@@ -566,7 +566,7 @@ const About = () => {
                 <div className="col-lg-6 col-md-9 order-0 order-lg-2">
                   <div className="about-img-seven-wrap">
                     <img
-                      src="/assets/img/images/inner_about_img03.jpg"
+                      src="/assets/img/images/new-about.png"
                       alt=""
                       data-aos="fade-right"
                       data-aos-delay={0}

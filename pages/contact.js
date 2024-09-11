@@ -130,8 +130,8 @@ export default function Contact() {
                       <h5 className="title-two">USA Office</h5>
                       <ul className="list-wrap">
                         <li>2380 Hempstead Tpke East Meadow, NY 11554, USA</li>
-                        <li>+1 (312) 622-0870</li>
-                        <li>info@perfectchoice.us</li>
+                        {/* <li>+1 (312) 622-0870</li> */}
+                        <li>info@1050web.com</li>
                       </ul>
                     </div>
                   </div>
