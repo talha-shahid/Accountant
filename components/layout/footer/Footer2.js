@@ -30,6 +30,16 @@ export default function Footer2() {
                       </p>
                       <div className="footer-info">
                         <ul className="list-wrap">
+                        <li>
+                        <Link href="https://www.facebook.com/Perfect.Choice.Tax.Accounting/">
+                          <i className="fab fa-facebook-f" />
+                        </Link>
+                      </li>
+                      <li>
+                        <Link href="mailto:info@1050web.com">
+                        info@1050web.com
+                        </Link>
+                      </li>
                           {/* <li>
                             <div className="icon" style={{padding: '10px'}}>
                               <i className="flaticon-phone-call" />
