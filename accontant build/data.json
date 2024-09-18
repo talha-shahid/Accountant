@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "slug": "indiviual-tax-filing",
+      "name": "Individual Tax Filing",
+      "subtitle": "Single 1040 + W2: $75",
+      "description": "Our tax specialists will handle your individual tax filing with precision and care. We will prepare your Form 1040 and ensure all W2 information is accurately reported. This service is perfect for individuals with straightforward income sources. Our goal is to maximize your refund or minimize your tax liability while ensuring compliance with all IRS regulations. We provide a seamless process, from document collection to filing, ensuring you have peace of mind knowing your taxes are in expert hands.",
+      "img":"/assets/img/new-images/money-2023-11-27-05-30-13-utc.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "married-filing-jointly",
+      "name": "Married Filing Jointly",
+      "subtitle": "No Kids (1 W2): $100",
+      "description": "For couples filing jointly without children, we offer a comprehensive tax filing service. This package covers one W2, ensuring that both incomes are correctly reported. We focus on optimizing your joint tax situation, considering all eligible deductions and credits to reduce your tax burden. Our specialists are adept at navigating the complexities of joint filings, ensuring accuracy and compliance.",
+      "subtitle-two": "Each Additional W2: $30",
+      "description-two": "If you have more than one W2, our tax experts will add each additional W2 for a nominal fee. We ensure that all income sources are accurately captured and reported, providing a complete and accurate tax return.",
+      "subtitle-three": "With Kids (1 W2): $75 ",
+      "description-three": "Filing taxes as a family can be complex, but our experts simplify the process. This service covers one W2 and includes considerations for dependents. We ensure you receive all eligible credits, such as the Child Tax Credit and Earned Income Credit, to maximize your refund. Our thorough approach guarantees accurate filing and compliance with all tax laws.",
+      "subtitle-four": "Each Additional W2: $15 ",
+      "description-four": "For families with multiple income sources, we handle each additional W2 efficiently. Our team ensures all income is reported accurately, helping you take full advantage of family related tax benefits.",
+      "img":"/assets/img/new-images/services/marriage.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "business-schedules",
+      "name": "Business Schedules",
+      "subtitle": "Schedule C: $100 extra",
+      "description": "Self-employed or running a small business? Our  Schedule C service provides detailed reporting of your business income and expenses. We help you maximize deductions and ensure compliance with all IRS requirements. ",
+      "subtitle-two": "Schedule D: $35 extra",
+      "description-two": "If you have capital gains or losses, our Schedule D service ensures accurate reporting. We handle all the details, helping you manage your investment income with ease. ",
+      "subtitle-three": "Schedule E: $100 ",
+      "description-three": "For those with rental properties or other sources of passive income, our Schedule E service covers all the necessary reporting. We ensure you capture all eligible expenses to reduce your taxable income.",
+      "subtitle-four": "Each Additional Property: $50",
+      "description-four": "Managing multiple properties? We provide comprehensive reporting for each additional property, ensuring all income and expenses are accurately captured.",
+      "subtitle-five": "Interest Bank and Dividend (Schedule B): $10 ",
+      "description-five": "We handle the reporting of your interest and dividend income with our Schedule B service. This ensures all your investment income is accurately reported, minimizing your tax liability.",
+      "subtitle-six": "Reporting Foreign Income: $150 ",
+      "description-six": "If you have foreign income, our specialists will ensure it is correctly reported. We navigate the complexities of foreign income reporting, ensuring compliance with all IRS requirements.",
+      "img":"/assets/img/new-images/services/personal-organizer-management-schedule-planning-2023-11-27-05-02-49-utc.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "corporate-tax-filing",
+      "name": "Corporate Tax Filing ",
+      "subtitle": "Form 1120C: $250",
+      "description": "For C Corporations, our Form 1120C service provides comprehensive tax filing. We ensure all corporate income and expenses are accurately reported, maximizing deductions and minimizing tax liability.",
+      "subtitle-two": "Each Additional State: $75",
+      "description-two": "If your corporation operates in multiple states, we handle the additional state filings, ensuring compliance with all state-specific requirements.",
+      "subtitle-three": "Form 1120S: $250",
+      "description-three": "For S Corporations, our Form 1120S service offers thorough tax filing. We ensure all income, deductions, and credits are accurately reported, optimizing your tax situation.",
+      "subtitle-four": "Each Additional Property: $50",
+      "description-four": "We handle additional state filings for S Corporations, ensuring compliance and accuracy. ",
+      "img":"/assets/img/services/taxes.jpg"
+
+    },
+    {
+      "id": 5,
+      "slug": "partnership",
+      "name": "Partnership (Form 1065)",
+      "subtitle": "Partnership (Form 1065): $250",
+      "description": "Our Form 1065 service for partnerships provides complete tax filing. We ensure all partnership income, deductions and credits are accurately reported, helping you manage your partnership's tax obligations effectively.",
+      "subtitle-two": "Each Additional State: $75",
+      "description-two": "If your corporation operates in multiple states, we handle the additional state filings, ensuring compliance with all state-specific requirements.",
+      "subtitle-three": "Each Additional State: $100 ",
+      "description-three": "For partnerships operating in multiple states, we handle additional state filings, ensuring compliance with all state-specific tax laws. ",
+      "subtitle-four": "Each Additional Property: $50",
+      "description-four": "We handle additional state filings for S Corporations, ensuring compliance and accuracy. ",
+      "subtitle-five": "Schedule K: $50",
+      "description-five": "Our Schedule K service ensures accurate reporting of partner distributions, helping you maintain compliance and clarity in your partnership's financials.",
+      "subtitle-six": "1099 Filing: $50",
+      "description-six": "We handle the filing of 1099 forms, ensuring all contractor payments are reported accurately.",
+      "subtitle-seven" :"1099 Correction: $25 ",
+      "description-seven": "Need to correct a 1099 form? Our correction service ensures accurate reporting, avoiding penalties and ensuring compliance.",
+      "img":"/assets/img/new-images/services/form.jpg"
+    }
+  ]
